@@ -1,8 +1,8 @@
 # NaanMudhalvan_Suresh_1103_GRTIET
 
-Student Name : D. Suresh
+Student's Name : D. Suresh
 
-Student Register Number : 110321104051
+Student's Register Number : 110321104051
 
 Student's NM Register Number : au110321104051
 
